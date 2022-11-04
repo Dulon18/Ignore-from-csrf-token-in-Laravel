@@ -8,3 +8,6 @@ Sometime we need to ignore some route for csrf middleware in our laravel applica
 VerifyCsrfToken middleware will have $except array variable there you can easily add your url and ignore from csrf token verification.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/199766435-07066dfe-be8f-4402-8d3e-d52a8bd8613c.JPG" width="400"></a></p>
+
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/200027780-f040a838-89d1-4442-b0df-2dc941838123.JPG" width="500"></a></p>
