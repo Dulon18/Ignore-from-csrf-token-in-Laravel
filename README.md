@@ -16,3 +16,5 @@ VerifyCsrfToken middleware will have $except array variable there you can easily
 ## Output
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/200028127-6752a5d1-05b8-4e28-a9c6-75a4e99366a5.JPG" width="500"></a></p>
 
+
+<p align="center"><span style="color: red;">&hearts;</span> Thank You <span style="color: red;">&hearts;</span></p>
